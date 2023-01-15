@@ -53,7 +53,8 @@ export default function Home() {
                   <a
                     className={styles.btn}
                     href="https://nextjs.org/docs"
-                    target="_blank"
+                    target="_blank" 
+                    rel="noreferrer"
                   >
                     Learn More
                   </a>
